@@ -84,4 +84,9 @@ The policy is currently not enabled (the Enabled column says No.)
 
 <img width="808" alt="Screenshot 2024-05-20 alle 18 02 02" src="https://github.com/chriske00/Windows-Defender-Firewall/assets/170177508/3da2f5f8-f46f-481e-be2a-7b7e52750e8d">
 
-    
+
+13) Now you will see that a green checkmark appears next to the first rule indicating that the rule allowing communication is enabled. A circle with a line through it appears next to the second rule indicating that the rule blocking communication is enabled.
+
+
+<img width="460" alt="2,4" src="https://github.com/chriske00/Windows-Defender-Firewall/assets/170177508/b882e6cc-5548-4f20-97dd-07beb93e498a">
+
